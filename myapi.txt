@@ -1,0 +1,5 @@
+{
+ "version":"5.0", 
+ "changelog":"Lista de mudanças",
+ "download":"https://t.me/yModsX"
+ }

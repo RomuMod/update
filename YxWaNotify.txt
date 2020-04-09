@@ -2,6 +2,6 @@
  "title":"Bem vindo ao YxWa",
  "description":"Seja bem vindo ao YxWa, espero que você goste ^-^",
  "button":"Ok",
- "url":"https://t.me/yxwagroup",
+ "url":"",
  "id":"0273038303"
 }

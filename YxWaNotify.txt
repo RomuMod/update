@@ -1,0 +1,6 @@
+{
+ "title":"Bem vindo ao YxWa",
+ "description":"Seja bem vindo ao YxWa, espero que você goste ^-^",
+ "url":"https://t.me/yxwagroup",
+ "id":"0273038303"
+}

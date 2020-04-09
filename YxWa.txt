@@ -1,1 +1,7 @@
-8.30
+{
+ "version":"8.30",
+ "title":"Atualização disponível",
+ "description":"Uma nova atualização do YxWa está disponível, atualize para manter o aplicativo livre de bugs.",
+ "download":"https://t.me/yxwagroup",
+ "force":"true"
+}

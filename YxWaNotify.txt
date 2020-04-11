@@ -1,7 +1,7 @@
 {
- "title":"Bem vindo ao YxWa",
- "description":"Seja bem vindo ao YxWa, espero que você goste ^-^",
- "button":"Ok, obrigado.",
+ "title":"Notificação de teste",
+ "description":"O ClebersonJr é um dos caras mais bonito do mundo •_^",
+ "button":"Hahahaha sei",
  "url":"",
  "id":"0273038303"
 }

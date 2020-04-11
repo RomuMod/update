@@ -1,7 +1,7 @@
 {
- "title":"Notificação de teste",
- "description":"O ClebersonJr é um dos caras mais bonito do mundo •_^",
- "button":"Hahahaha sei",
+ "title":"Alerta",
+ "description":"Não habilite a opção de encaminhar mensagens em massa, você poder ser banido durante a quarentena :(",
+ "button":"Okay, entendi",
  "url":"",
  "id":"02730383h3"
 }

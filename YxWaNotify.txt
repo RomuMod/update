@@ -1,7 +1,7 @@
 {
  "title":"Você é novo no YxWa?",
  "description":"Assista o vídeo do meu amigo Tulyo no YouTube e, aprenda um pouco sobre o YxWa =)",
- "button":"Assitir",
+ "button":"Assistir",
  "url":"https://youtu.be/ORunuDEVBbE",
- "id":"0yi830d"
+ "id":"0yi830p"
 }

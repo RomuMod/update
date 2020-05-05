@@ -1,7 +1,7 @@
 {
- "title":"Alerta",
- "description":"Não habilite a opção de encaminhar mensagens em massa, você poder ser banido durante a quarentena :(",
- "button":"Okay, entendi",
- "url":"",
- "id":"02730383h3"
+ "title":"Você é novo no YxWa?",
+ "description":"Assista o vídeo do meu amigo Tulyo no YouTube e, aprenda um pouco sobre o YxWa =)",
+ "button":"Assitir",
+ "url":"https://youtu.be/ORunuDEVBbE",
+ "id":"0yi830d"
 }

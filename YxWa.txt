@@ -1,7 +1,7 @@
 {
- "version":"8.29",
+ "version":"8.30",
  "title":"Atualização disponível",
- "description":"Uma nova atualização do YxWa está disponível, atualize para manter o aplicativo livre de bugs.",
+ "description":"Atualizamos o aplicativo; tema escuro, adesivos animados, guia grupos e conversas separadas e muito mais.",
  "download":"https://t.me/yxwagroup",
  "force":"true"
 }

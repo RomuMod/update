@@ -1,7 +1,7 @@
 {
- "version":"8.30",
+ "version":"8.31",
  "title":"Atualização disponível",
- "description":"Atualizamos o aplicativo; tema escuro, adesivos animados, guia grupos e conversas separadas e muito mais.",
+ "description":"Apertamos alguns parafusos para manter o aplicativo funcionando, além disso, agora o idioma espanhol está disponível. Abraço!",
  "download":"https://t.me/yxwagroup",
- "force":"true"
+ "force":"false"
 }

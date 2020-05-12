@@ -3,5 +3,5 @@
  "title":"Atualização disponível",
  "description":"Apertamos alguns parafusos para manter o aplicativo funcionando, além disso, agora o idioma espanhol está disponível. Abraço!",
  "download":"https://t.me/yxwagroup",
- "force":"false"
+ "force":"true"
 }

@@ -1,7 +1,7 @@
 {
- "version":"8.31",
+ "version":"8.32",
  "title":"Atualização disponível",
- "description":"Apertamos alguns parafusos para manter o aplicativo funcionando, além disso, agora o idioma espanhol está disponível. Abraço!",
+ "description":"Fizemos alterações e corrigimos erros para deixar o aplicativo melhor. Atualize para usar os novos efeitos de transição =)",
  "download":"https://t.me/yxwagroup",
  "users_premium":"C29A804",
  "force":"true"

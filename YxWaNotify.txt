@@ -1,7 +1,7 @@
 {
- "title":"Efeitos de transições personalizados",
- "description":"Vá até Complementos > Lista de conversa > Efeito de transição para usar os novos efeitos =)",
- "button":"Ok, entendi",
- "url":"",
- "id":"0yi831p8"
+ "title":"Como baixar temas?",
+ "description":"Ridículo esse tem que você está usando🤮 Assista este vídeo para aprender baixar temas usando o YxWa e deixe ele a sua cara =)",
+ "button":"Assitir",
+ "url":"https://youtu.be/WVvyJtZ-wTA",
+ "id":"0yi831gg8"
 }

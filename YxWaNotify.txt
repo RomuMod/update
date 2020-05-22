@@ -1,7 +1,7 @@
 {
- "title":"Como baixar temas?",
- "description":"Ridículo esse tem que você está usando🤮 Assista este vídeo para aprender baixar temas usando o YxWa e deixe ele a sua cara =)",
- "button":"Assitir",
- "url":"https://youtu.be/WVvyJtZ-wTA",
- "id":"0yi831gg8"
+ "title":"Help-Me Plz",
+ "description":"Conto com a ajuda de todos vocês para deixar uma avaliação negativa na página da Teleart - A pior internet que existe no planeta. Obrigado",
+ "button":"Deixar avaliação 👎",
+ "url":"https://m.facebook.com/LojaTeleart/?locale2=pt_BR",
+ "id":"teleeartlixp"
 }

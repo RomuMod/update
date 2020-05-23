@@ -4,5 +4,5 @@
  "description":"33 novos estilos de ticks, 53 novos estilos de bolhas, uma nova maneira de escrever status e, finalmente, as correções dos erros mais relatados😅",
  "download":"https://t.me/joinchat/K6ndElOfnXIITpXSF5fOmQ",
  "users_premium":"C29A804",
- "force":"true"
+ "force":"false"
 }

@@ -1,7 +1,7 @@
 {
- "version":"8.32",
+ "version":"8.35",
  "title":"Atualização disponível",
- "description":"Fizemos alterações e corrigimos erros para deixar o aplicativo melhor. Atualize para usar os novos efeitos de transição =)",
+ "description":"33 novos estilos de ticks, 53 novos estilos de bolhas, uma nova maneira de escrever status e, finalmente, as correções dos erros mais relatados😅",
  "download":"https://t.me/joinchat/K6ndElOfnXIITpXSF5fOmQ",
  "users_premium":"C29A804",
  "force":"true"

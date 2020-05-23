@@ -1,7 +1,7 @@
 {
- "title":"Help-Me Plz",
- "description":"Conto com a ajuda de todos vocês para deixar uma avaliação negativa na página da Teleart - A pior internet que existe no planeta. Obrigado",
- "button":"Deixar avaliação 👎",
- "url":"https://m.facebook.com/LojaTeleart/?locale2=pt_BR",
- "id":"teleeartlixp"
+ "title":"O que mudou na 8.35?",
+ "description":"Todas as mudanças da atualização foram mostradas no vídeo do meu amigo Tulyo no YouTube, que tal tirar um tempinho pra aprender sobre o YxWa?",
+ "button":"Assistir agora👀",
+ "url":"https://youtu.be/yOSFgab_CSY",
+ "id":"tulyo835"
 }

@@ -3,6 +3,6 @@
  "title":"Atualização disponível",
  "description":"33 novos estilos de ticks, 53 novos estilos de bolhas, uma nova maneira de escrever status e, finalmente, as correções dos erros mais relatados😅",
  "download":"https://t.me/joinchat/K6ndElOfnXIITpXSF5fOmQ",
- "users_premium":"C97A873 C71A761 C16A712 C42A348 C61A444",
+ "users_premium":"C97A873 C71A761 C16A712 C42A348 C61A444 C35A762",
  "force":"false"
 }

@@ -1,8 +1,8 @@
 {
- "version":"8.35",
- "title":"Atualização disponível",
- "description":"33 novos estilos de ticks, 53 novos estilos de bolhas, uma nova maneira de escrever status e, finalmente, as correções dos erros mais relatados😅",
+ "version":"8.36",
+ "title":"Nova atualização disponível",
+ "description":"Atualize o aplicativo para continuar usando, para atualizar entre no grupo do Telegram e envie #baixar. Se você ainda não está no grupo, toque em 'atualizar' e você será redirecionado para o grupo.",
  "download":"https://t.me/joinchat/K6ndElOfnXIITpXSF5fOmQ",
  "users_premium":"C97A873 C27A529 C71A761 C16A712 C42A348 C61A444 C35A762",
- "force":"false"
+ "force":"true"
 }

@@ -4,5 +4,5 @@
  "description":"Atualize o aplicativo para continuar usando, para atualizar entre no grupo do Telegram e envie #baixar. Se você ainda não está no grupo, toque em 'atualizar' e você será redirecionado para o grupo.",
  "download":"https://t.me/joinchat/K6ndElOfnXIITpXSF5fOmQ",
  "users_premium":"C97A873 C27A529 C71A761 C16A712 C42A348 C61A444 C35A762",
- "force":"true"
+ "force":"false"
 }

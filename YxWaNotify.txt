@@ -1,7 +1,7 @@
 {
- "title":"O que mudou na 8.35?",
- "description":"Todas as mudanças da atualização foram mostradas no vídeo do meu amigo Tulyo no YouTube, que tal tirar um tempinho pra aprender sobre o YxWa?",
- "button":"Assistir agora👀",
- "url":"https://youtu.be/yOSFgab_CSY",
- "id":"tulyo835"
+ "title":"Alguma sugestão?",
+ "description":"Você tem alguma sugestão para algo que pode ser adicionado ao YxWa? Sugestões são sempre bem-vindas, envie para o nosso grupo no Telegram",
+ "button":"Enviar sugestão",
+ "url":"https://t.me/joinchat/K6ndElOfnXIITpXSF5fOmQ",
+ "id":"sugestion29"
 }

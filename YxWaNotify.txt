@@ -2,6 +2,6 @@
  "title":"Importante",
  "description":"O WhatsApp está passeando por alguns problemas, não reporte bugs por enquanto. Isso não é um problema do mod e sim do WhatsApp.",
  "button":"Ok, entendi",
- "url"",
+ "url":"",
  "id":"sugestiosjjsn29"
 }

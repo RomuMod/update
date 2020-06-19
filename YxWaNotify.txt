@@ -1,7 +1,7 @@
 {
- "title":"Alguma sugestão?",
- "description":"Você tem alguma sugestão para algo que pode ser adicionado ao YxWa? Sugestões são sempre bem-vindas, envie para o nosso grupo no Telegram",
- "button":"Enviar sugestão",
- "url":"https://t.me/joinchat/K6ndElOfnXIITpXSF5fOmQ",
- "id":"sugestion29"
+ "title":"Importante",
+ "description":"O WhatsApp está passeando por alguns problemas, não reporte bugs por enquanto. Isso não é um problema do mod e sim do WhatsApp.",
+ "button":"Ok, entendi",
+ "url"",
+ "id":"sugestiosjjsn29"
 }

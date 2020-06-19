@@ -1,7 +1,7 @@
 {
- "title":"Importante",
- "description":"O WhatsApp está passeando por alguns problemas, não reporte bugs por enquanto. Isso não é um problema do mod e sim do WhatsApp.",
- "button":"Ok, entendi",
- "url":"",
- "id":"sugestiosjjsn29"
+ "title":"Suporte",
+ "description":"Alguma dúvida? Temos um grupo oficial no Telegram - participe para tirar suas dúvidas e enviar sugestões ao desenvolvedor.",
+ "button":"Participar agora 😍",
+ "url":"https://t.me/joinchat/K6ndElOfnXIITpXSF5fOmQ",
+ "id":"adsgpblablablabla"
 }

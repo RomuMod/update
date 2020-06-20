@@ -1,4 +1,6 @@
 {
+ "type":"banner",
+ "banner_url":"$",
  "title":"Envie seus temas 😊",
  "description":"Você cria temas? Participe do nosso grupo oficial no Telegrama e envie seus temas para loja do YxWa",
  "button":"Participar agora 😍",

@@ -1,7 +1,7 @@
 {
- "title":"Suporte",
- "description":"Alguma dúvida? Temos um grupo oficial no Telegram - participe para tirar suas dúvidas e enviar sugestões ao desenvolvedor.",
+ "title":"Envie seus temas 😊",
+ "description":"Você cria temas? Participe do nosso grupo oficial no Telegrama e envie seus temas para loja do YxWa",
  "button":"Participar agora 😍",
- "url":"https://t.me/joinchat/K6ndElOfnXIITpXSF5fOmQ",
- "id":"adsgpblablablabla"
+ "url":"https://t.me/joinchat/K6ndEhvCNTAXD8ddRJiZdA",
+ "id":"adesgpblablablabla"
 }

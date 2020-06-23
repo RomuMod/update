@@ -1,9 +1,9 @@
 {
  "type":"banner",
- "banner_url":"https://t.me/joinchat/K6ndEhvCNTAXD8ddRJiZdA",
- "title":"Envie seus temas 😊",
+ "banner_url":"https://graph.org/Notificação-YxWa-06-23",
+ "title":"Ganhe dinheiro com o Encurtanet 💰",
  "description":"Você cria temas? Participe do nosso grupo oficial no Telegrama e envie seus temas para loja do YxWa",
  "button":"Participar agora 😍",
  "url":"https://t.me/joinchat/K6ndEhvCNTAXD8ddRJiZdA",
- "id":"banner1"
+ "id":"banner2"
 }

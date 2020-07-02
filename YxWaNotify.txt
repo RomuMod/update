@@ -1,9 +1,9 @@
 {
- "type":"popup",
- "banner_url":"https://graph.org/Notificação-YxWa-06-23",
- "title":"Pop-up chat né? Eu sei 😔",
+ "type":"banner",
+ "banner_url":"https://t.me/joinchat/K6ndElOfnXK6A2bu9-zZRw",
+ "title":"Grupo oficial em Português no Telegram",
  "description":"Temos um grupo no Telegram, mas ultimamente estou me sentindo solitário. Que tal participar do grupo e me fazer companhia?",
  "button_url":"Participar",
  "url":"https://t.me/joinchat/K6ndElOfnXK6A2bu9-zZRw",
- "id":"popup1"
+ "id":"popupg1"
 }

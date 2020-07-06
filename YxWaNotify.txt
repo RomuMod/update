@@ -2,11 +2,8 @@
  "type":"popup",
  "banner_url":"https://t.me/joinchat/K6ndElOfnXK6A2bu9-zZRw",
  "title":"Importante",
- "description":"'Seu WhatsApp precisa ser atualizado em X dias'.\n
-Se você vir esta mensagem, toque em "Ignorar". Não há atualização do YxWhatsApp, esta é uma mensagem programada pelo WhatsApp, apenas ignore e tudo ficará bem.\n\n
-
-t.me/YxWaGroup",
+ "description":"Se você for incomodado com uma mensagem que diz que seu WhatsApp precisa ser atualizado, apenas ignore. Não há atualizações, é apenas uma mensagem predefinida pelo WhatsApp oficial :)",
  "button_url":"Mais informações",
  "url":"https://t.me/yxwagroup",
- "id":"popupupdate"
+ "id":"popupuhpdate"
 }

@@ -1,9 +1,9 @@
 {
  "type":"popup",
  "banner_url":"https://t.me/joinchat/K6ndElOfnXK6A2bu9-zZRw",
- "title":"Importante",
- "description":"Se você for incomodado com uma mensagem que diz que seu WhatsApp precisa ser atualizado, apenas ignore. Não há atualizações, é apenas uma mensagem predefinida pelo WhatsApp oficial :)",
- "button_url":"Mais informações",
- "url":"https://t.me/yxwagroup",
- "id":"popupuhpdate"
+ "title":"Segueeeeee aí 😔✊",
+ "description":"Já pensou em seguir o desenvolvedor mais lindo e gostoso de todo Brasil? É isso aí, eu tenho um Twitter :)",
+ "button_url":"seguir agora",
+ "url":"https://twitter.com/ClebersonJrX?s=08",
+ "id":"twitterclebersonjr"
 }

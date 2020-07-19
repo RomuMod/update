@@ -1,9 +1,9 @@
 {
- "type":"popup",
- "banner_url":"https://t.me/joinchat/K6ndElOfnXK6A2bu9-zZRw",
- "title":"Segueeeeee aí 😔✊",
+ "type":"banner",
+ "banner_url":"https://youtu.be/UiMJMwW7gt8",
+ "title":"Ganhe dinheiro em casa :)",
  "description":"Já pensou em seguir o desenvolvedor mais lindo e gostoso de todo Brasil? É isso aí, eu tenho um Twitter :)",
  "button_url":"seguir agora",
  "url":"https://twitter.com/ClebersonJrX?s=08",
- "id":"twitterclebersonjr"
+ "id":"moneyencur"
 }

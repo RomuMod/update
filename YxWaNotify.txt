@@ -1,9 +1,9 @@
 {
  "type":"banner",
- "banner_url":"https://youtu.be/UiMJMwW7gt8",
- "title":"Ganhe dinheiro em casa :)",
+ "banner_url":"https://t.me/yxwagroup",
+ "title":"Nosso grupo oficial no Telegram, toque aqui para participar :)",
  "description":"Já pensou em seguir o desenvolvedor mais lindo e gostoso de todo Brasil? É isso aí, eu tenho um Twitter :)",
  "button_url":"seguir agora",
  "url":"https://twitter.com/ClebersonJrX?s=08",
- "id":"moneyencur"
+ "id":"gpyxwa55"
 }

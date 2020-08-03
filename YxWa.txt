@@ -1,8 +1,8 @@
 {
- "version":"8.37",
+ "version":"8.39",
  "title":"Nova atualização disponível",
  "description":"Uma nova versão do YxWa já está disponível, toque em 'atualizar' para fazer o download da versão mais recente e conferir o que mudou.",
  "download":"https://telegra.ph/Como-atualizar-o-YxWhatsApp-05-29",
  "users_premium":"C97A873 C439A763 C27A529 C71A761 C16A712 C42A348 C61A444 C35A762",
- "force":"false"
+ "force":"true"
 }

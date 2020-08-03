@@ -1,9 +1,9 @@
 {
- "type":"banner",
+ "type":"popup",
  "banner_url":"https://www.instagram.com/p/CDaNHPhBKPw/?igshid=ylmj9h7ldmpv",
- "title":"Tem Instagram? Curta essa foto pro meu amigo ganhar uma TV 🎉🐬 Plz",
- "description":"Já pensou em seguir o desenvolvedor mais lindo e gostoso de todo Brasil? É isso aí, eu tenho um Twitter :)",
- "button_url":"seguir agora",
- "url":"https://twitter.com/ClebersonJrX?s=08",
- "id":"gpyxhwa55"
+ "title":"Você usa Instagram? 🥺✊",
+ "description":"",
+ "button_url":"curtir agora🎉❤️",
+ "url":"",
+ "id":"lucashort2"
 }

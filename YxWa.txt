@@ -3,6 +3,6 @@
  "title":"Nova atualização disponível",
  "description":"Uma nova versão do YxWa já está disponível, toque em 'atualizar' para fazer o download da versão mais recente e conferir o que mudou.",
  "download":"https://telegra.ph/Como-atualizar-o-YxWhatsApp-05-29",
- "users_premium":"C470A231 C748A949 C50A328 C58A219 C34A634 C97A873 C439A763 C27A529 C71A761 C16A712 C42A348 C61A444 C35A762",
+ "users_premium":"C238A567 C470A231 C748A949 C50A328 C58A219 C34A634 C97A873 C439A763 C27A529 C71A761 C16A712 C42A348 C61A444 C35A762",
  "force":"true"
 }

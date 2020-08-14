@@ -1,9 +1,9 @@
 {
  "type":"banner",
- "banner_url":"https://www.instagram.com/p/CDaNHPhBKPw/?igshid=ylmj9h7ldmpv",
- "title":"Curta essa foto para remover os anúncios da loja de temas do YxWa :)",
+ "banner_url":"https://t.me/yxwagroup",
+ "title":"Grupo de suporte em português :)",
  "description":"Meu amigo está competindo por uma TV - em um concurso em uma loja de móveis aqui na minha cidade, mas apenas a foto com mais curtidas vence. Vamos mostrar a força do YxWa? Ajude-me a ajudar meu amigo a ganhar TV, tudo que você precisa fazer é curtir a foto dele no Instagram da loja, obrigado :)",
  "button_url":"curtir agora🎉❤️",
  "url":"https://www.instagram.com/p/CDaNHPhBKPw/?igshid=ylmj9h7ldmpv",
- "id":"lucashort22p"
+ "id":"suport22222"
 }

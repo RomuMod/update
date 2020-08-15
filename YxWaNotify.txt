@@ -1,9 +1,9 @@
 {
- "type":"banner",
+ "type":"dialog",
  "banner_url":"https://t.me/yxwagroup",
- "title":"Grupo de suporte em português :)",
- "description":"Meu amigo está competindo por uma TV - em um concurso em uma loja de móveis aqui na minha cidade, mas apenas a foto com mais curtidas vence. Vamos mostrar a força do YxWa? Ajude-me a ajudar meu amigo a ganhar TV, tudo que você precisa fazer é curtir a foto dele no Instagram da loja, obrigado :)",
- "button_url":"curtir agora🎉❤️",
- "url":"https://www.instagram.com/p/CDaNHPhBKPw/?igshid=ylmj9h7ldmpv",
- "id":"suport22222"
+ "title":"⚠️ Aviso importante",
+ "description":"Olá querido usuário, por gentileza, leia o aviso que deixei na minha conta do Twitter",
+ "button_url":"ver agora",
+ "url":"https://twitter.com/ClebersonJrX/status/1294691287229181952?s=19",
+ "id":"suport222223"
 }

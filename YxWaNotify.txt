@@ -1,9 +1,9 @@
 {
- "type":"dialog",
- "banner_url":"https://t.me/yxwagroup",
- "title":"Siga-me no Twitter",
+ "type":"banner",
+ "banner_url":"https://twitter.com/ClebersonJrX/status/1296262366364078080?s=19",
+ "title":"Quer baixar temas sem vê aqueles anúncios chatos? Toque aqui :)",
  "description":"Siga meu perfil no Twitter para ser notificado quando alguma novidade sobre o YxWa surgir :)",
  "button_url":"seguir",
  "url":"https://twitter.com/ClebersonJrX/status/1295412954154835969?s=19",
- "id":"devtt"
+ "id":"devrewards"
 }

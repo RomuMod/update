@@ -1,5 +1,6 @@
 {
  "version":"8.46",
+ "slogan_vip":"Obrigado por apoiar o projeto ❤️",
  "slogan":"Os bugs são apenas um brinde 🤧",
  "status":"theme",
  "title":"Atualização estável disponível",

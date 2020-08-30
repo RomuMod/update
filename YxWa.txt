@@ -1,5 +1,7 @@
 {
  "version":"8.46",
+ "slogan":"Os bugs são apenas um brinde 🤧",
+ "status":"theme",
  "title":"Atualização estável disponível",
  "description":"Uma nova versão do YxWa já está disponível, toque em 'atualizar' para fazer o download da versão mais recente e conferir o que mudou.",
  "download":"https://t.me/yxwagroup",

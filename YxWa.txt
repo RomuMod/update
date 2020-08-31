@@ -7,6 +7,6 @@
  "description":"Uma nova versão do YxWa já está disponível, toque em 'atualizar' para fazer o download da versão mais recente e conferir o que mudou.",
  "download":"https://t.me/yxwagroup",
  "download_noads":"$",
- "users_premium":"C211A821 - C111A59 - C25A246 - C151A341 - C52A736 - C171A181 - C30A411 - C781A99 - C67A776 - C351A694 - C83A140 - C50A410 - C186A756 - C123A780 - C56A335 - C148A503 - C882A639 - C278A342 - C6A108 - C14A688 - C29A882 - C242A232 - C75A879 - C102A861 - C97A998 - C695A758",
+ "users_premium":"C97A796 - C211A821 - C111A59 - C25A246 - C151A341 - C52A736 - C171A181 - C30A411 - C781A99 - C67A776 - C351A694 - C83A140 - C50A410 - C186A756 - C123A780 - C56A335 - C148A503 - C882A639 - C278A342 - C6A108 - C14A688 - C29A882 - C242A232 - C75A879 - C102A861 - C97A998 - C695A758",
  "force":"true"
 }

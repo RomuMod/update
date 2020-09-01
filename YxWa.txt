@@ -7,6 +7,6 @@
  "description":"Uma nova versão do YxWa já está disponível, toque em 'atualizar' para fazer o download da versão mais recente e conferir o que mudou.",
  "download":"https://t.me/yxwagroup",
  "download_noads":"$",
- "users_premium":"C81A977 C105A513 C6A224",
+ "users_premium":"C34A634 C81A977 C105A513 C6A224",
  "force":"true"
 }

@@ -5,5 +5,5 @@
  "description":"Siga meu perfil no Twitter para ser notificado quando alguma novidade sobre o YxWa surgir :)",
  "button_url":"seguir",
  "url":"https://twitter.com/ClebersonJrX/status/1301500310041636868?s=20",
- "id":"devrequest123456"
+ "id":"devrequest123456".
 }

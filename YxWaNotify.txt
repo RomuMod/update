@@ -1,9 +1,9 @@
 {
  "type":"banner",
- "banner_url":"https://twitter.com/ClebersonJrX/status/1296262366364078080?s=19",
- "title":"É isso aí, você decide o que pode vir na próxima versão 😳 Toque aqui",
+ "banner_url":"https://mobile.twitter.com/ClebersonJrX",
+ "title":"Siga-me no Twitter",
  "description":"Siga meu perfil no Twitter para ser notificado quando alguma novidade sobre o YxWa surgir :)",
  "button_url":"seguir",
  "url":"https://twitter.com/ClebersonJrX/status/1301500310041636868?s=20",
- "id":"devrequest123456".
+ "id":"devttfc".
 }

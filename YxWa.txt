@@ -1,12 +1,12 @@
 {
  "version":"8.50",
  "slogan_vip":"Obrigado por apoiar o projeto ❤️",
- "slogan":"Encontrou um bug? Duvido 😎",
+ "slogan":"Alemanha 7x1 Brasil, lembram?",
  "status":"theme",
  "title":"Atualização 8.50 disponível, toque para atualizar",
  "description":"Uma nova versão do YxWa já está disponível, toque em 'atualizar' para fazer o download da versão mais recente e conferir o que mudou.",
  "download":"https://t.me/yxmods",
  "download_noads":"$",
- "users_premium":"C102A861 C78A156 C34A634 C81A977 C105A513 C6A224",
+ "users_premium":"C135A602 C102A861 C78A156 C34A634 C81A977 C105A513 C6A224",
  "force":"true"
 }

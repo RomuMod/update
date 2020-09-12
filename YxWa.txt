@@ -1,12 +1,12 @@
 {
  "version":"8.50",
  "slogan_vip":"Obrigado por apoiar o projeto ❤️",
- "slogan":"Menino ney chorou quando perdeu kk",
+ "slogan":"777x666 • Tuêzin",
  "status":"theme",
  "title":"Atualização 8.50 disponível, toque para atualizar",
  "description":"Uma nova versão do YxWa já está disponível, toque em 'atualizar' para fazer o download da versão mais recente e conferir o que mudou.",
  "download":"https://t.me/yxmods",
  "download_noads":"$",
- "users_premium":"C57A19 C109A534 C394A308 C64A163 C76A882 C63A67 C70A81 C41A36 C103A764 C267A625 C103A921 C190A850 C5A835 C220A630 C47A608 C42A348 C21A503 C84A737 C135A602 C102A861 C78A156 C34A634 C81A977 C105A513 C6A224",
+ "users_premium":"C263A97 C57A19 C109A534 C394A308 C64A163 C76A882 C63A67 C70A81 C41A36 C103A764 C267A625 C103A921 C190A850 C5A835 C220A630 C47A608 C42A348 C21A503 C84A737 C135A602 C102A861 C78A156 C34A634 C81A977 C105A513 C6A224",
  "force":"true"
 }

@@ -1,9 +1,9 @@
 {
- "version":"8.50",
+ "version":"8.51",
  "slogan_vip":"Obrigado por apoiar o projeto ❤️",
  "slogan":"777x666 • Tuêzin",
  "status":"theme",
- "title":"Atualização 8.50 disponível, toque para atualizar",
+ "title":"Atualização de correções de bugs disponível, toque para atualizar",
  "description":"Uma nova versão do YxWa já está disponível, toque em 'atualizar' para fazer o download da versão mais recente e conferir o que mudou.",
  "download":"https://t.me/yxmods",
  "download_noads":"$",

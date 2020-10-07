@@ -1,9 +1,9 @@
 {
  "type":"banner",
- "banner_url":"https://t.me/joinchat/K6ndEkw7-I337D6klDU6vQ",
+ "banner_url":"https://t.me/yM0dsX",
  "title":"Usa Telegram?",
  "description":"Participe do melhor grupo de aplicativos modificados do Telegram: Spotify Premium, Deezer Premium, YouTube Premium e muito mais",
  "button_url":"participar",
- "url":"https://t.me/joinchat/K6ndEkw7-I337D6klDU6vQ",
+ "url":"https://t.me/yM0dsX",
  "id":"devttfc222kk"
 }

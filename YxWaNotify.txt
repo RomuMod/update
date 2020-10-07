@@ -1,9 +1,9 @@
 {
  "type":"banner",
- "banner_url":"https://mobile.twitter.com/ClebersonJrX",
- "title":"Siga-me meu desenvolvedor no Twitter :)",
- "description":"Siga meu perfil no Twitter para ser notificado quando alguma novidade sobre o YxWa surgir :)",
- "button_url":"seguir",
- "url":"https://twitter.com/ClebersonJrX/status/1301500310041636868?s=20",
- "id":"devttfc222"
+ "banner_url":"https://t.me/joinchat/K6ndEkw7-I337D6klDU6vQ",
+ "title":"Usa Telegram?",
+ "description":"Participe do melhor grupo de aplicativos modificados do Telegram: Spotify Premium, Deezer Premium, YouTube Premium e muito mais",
+ "button_url":"participar",
+ "url":"https://t.me/joinchat/K6ndEkw7-I337D6klDU6vQ",
+ "id":"devttfc222kk"
 }

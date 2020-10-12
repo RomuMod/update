@@ -5,5 +5,5 @@
  "description":"Participe do melhor grupo de aplicativos modificados do Telegram: Spotify Premium, Deezer Premium, YouTube Premium e muito mais",
  "button_url":"participar",
  "url":"https://t.me/yM0dsX",
- "id":"devttfc222kk"
+ "id":"devrck"
 }

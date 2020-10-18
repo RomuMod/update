@@ -1,9 +1,9 @@
 {
  "type":"banner",
- "banner_url":"https://t.me/yxwagroup",
- "title":"Usa Telegram?",
- "description":"Participe do nosso grupo oficial no Telegram",
- "button_url":"participar",
- "url":"https://t.me/yxwagroup",
- "id":"devrcklp"
+ "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
+ "title":"Novidade na área 😋",
+ "description":"Sabe aquele amigo chato que vive mandando áudios enormes? Agora é possível reproduzir áudios na metade do tempo. (isso mesmo, agora você pode acelerar os áudios usando o YxWhatsApp)",
+ "button_url":"ver 👀",
+ "url":"https://telegra.ph/Speed-Up-Add-on-10-18",
+ "id":"speedupaddon"
 }

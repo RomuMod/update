@@ -1,5 +1,5 @@
 {
- "version":"8.72",
+ "version":"8.73",
  "status":"beta",
  "title":"Atualização disponível",
  "description":"Uma nova atualização de correção de bug está disponível - toque em 'Atualizar' aguarde o download e instale. (não é necessário desinstalar sua versão - basta instalar por cima)\n\nBugs corrigidos\n• Erro ao utilizar estilos de barra inferior\n• Erro aleatório ao abrir uma conversa\n• Erro FAB ✂️ sendo mostrado na guia de Chamadas\n• As guias 'Conversas' 'Status' e 'Chamadas' não mudam mais de cor após arquivar uma conversa\n• Erros na guia 'Encaminhar mensagens'\n• O indicador de 'Novos status não visto' agora é menor.",

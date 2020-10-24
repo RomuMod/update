@@ -4,6 +4,6 @@
  "title":"Atualização disponível",
  "description":"Uma nova atualização de correção de bug está disponível - toque em 'Atualizar' aguarde o download e instale. (não é necessário desinstalar sua versão - basta instalar por cima)\n\n• Erro ao alterar o estilo da animação do título na tela inicial\n• Erro ao abrir a guia 'Histórico de conversas'\n• Erro ao selecionar uma notificação personalizada para um contato ou grupo",
  "download":"http://www.mediafire.com/file/8ou7psn7u8evhak/YxMods(8.71C).apk/file",
- "users_premium":"C109A534 C161A523 C155A282 C47A608 C463A314 C149A7 C276A809 C555A256 C776A123 C287A912 C24A2 C55A894 C55A711 C58A219 C27A865 C0A281 C465A991 C0A281 C36A87 C84A8 C135A602 C742A384 C65A552 C109A474 C64A163 C106A491 C2A749",
+ "users_premium":"C58A3 C109A534 C161A523 C155A282 C47A608 C463A314 C149A7 C276A809 C555A256 C776A123 C287A912 C24A2 C55A894 C55A711 C58A219 C27A865 C0A281 C465A991 C0A281 C36A87 C84A8 C135A602 C742A384 C65A552 C109A474 C64A163 C106A491 C2A749",
  "force":"true"
 }

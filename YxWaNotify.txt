@@ -1,9 +1,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Mensagem do desenvolvedor",
- "description":"Olá usuário\nencontrou um bug e quer relatá-lo - sugerir algo que pode ser adicionado ou apenas fazer perguntas sobre YxWa? Temos um grupo oficial no Telegram - lá você pode encontrar dezenas de respostas para suas perguntas.",
+ "title":"Já viu nosso grupo?",
+ "description":"Temos um grupo de suporte no Telegram - acompanhe todas novidades do YxWa por lá ;)",
  "button_url":"participar",
  "url":"https://t.me/yxwagroup",
- "id":"telegramgp0"
+ "id":"telegramgp1"
 }

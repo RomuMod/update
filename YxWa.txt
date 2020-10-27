@@ -4,6 +4,6 @@
  "title":"Atualização disponível",
  "description":"A versão 8.72 está disponível e inclui correções de bugs, uma nova opção para escolher o que acontecerá quando você clicar na foto do seu perfil na tela inicial e a possibilidade de interromper a reprodução de áudio quando você recebe dois ou mais áudios em uma conversa.\n\nComo atualizar?\nToque no botão 'Atualizar' - aguarde o download do aplicativo e logo após - faça a instalação por cima.",
  "download":"http://www.mediafire.com/file/qydim7310qrnfy5/YxMods(8.72).apk/file",
- "users_premium":"C175A650 C110A926 C102A121 C123A647 C58A3 C109A534 C161A523 C155A282 C47A608 C463A314 C149A7 C276A809 C555A256 C776A123 C287A912 C24A2 C55A894 C55A711 C58A219 C27A865 C0A281 C465A991 C0A281 C36A87 C84A8 C135A602 C742A384 C65A552 C109A474 C64A163 C106A491 C2A749",
+ "users_premium":"C22A902 C163A471 C110A926 C102A121 C123A647 C58A3 C109A534 C161A523 C155A282 C47A608 C463A314 C149A7 C276A809 C555A256 C776A123 C287A912 C24A2 C55A894 C55A711 C58A219 C27A865 C0A281 C465A991 C0A281 C36A87 C84A8 C135A602 C742A384 C65A552 C109A474 C64A163 C106A491 C2A749",
  "force":"true"
 }

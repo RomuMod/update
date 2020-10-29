@@ -1,9 +1,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Já viu nosso grupo?",
- "description":"Temos um grupo de suporte no Telegram - acompanhe todas novidades do YxWa por lá ;)",
- "button_url":"participar",
- "url":"https://t.me/yxwagroup",
- "id":"telegramgp1"
+ "title":"Usa Twitter?",
+ "description":"Que tal seguir a conta do desenvolvedor mais lindo do Brasil? Não custa nada ;)",
+ "button_url":"seguir",
+ "url":"https://mobile.twitter.com/ClebersonJrX",
+ "id":"twittermgp1"
 }

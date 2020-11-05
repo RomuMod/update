@@ -1,9 +1,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Usa Twitter?",
- "description":"Que tal seguir a conta do desenvolvedor mais lindo do Brasil? Não custa nada ;)",
- "button_url":"seguir",
- "url":"https://mobile.twitter.com/ClebersonJrX",
- "id":"twittermgp2"
+ "title":"Novidade chegando 😳",
+ "description":"Se liga nas novidades que estarão disponíveis nas atualizações futuras do YxWa",
+ "button_url":"ver agora",
+ "url":"https://twitter.com/ClebersonJrX/status/1324466815049846786?s=19",
+ "id":"newsone"
 }

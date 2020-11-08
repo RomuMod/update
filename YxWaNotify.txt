@@ -4,6 +4,6 @@
  "title":"Segue a gente",
  "description":"Você usa Telegram? Participe do nosso grupo de suporte no Telegram, te espero lá :)",
  "button_url":"participar",
- "url":"https://t.me/yModsX",
- "id":"newsoneweejje"
+ "url":"https://t.me/yxwagroup",
+ "id":"newsoneweejjej"
 }

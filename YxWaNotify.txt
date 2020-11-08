@@ -1,9 +1,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Você foi escolhido 👏",
- "description":"Você quer usar as funções pagas do YxWa gratuitamente? Estamos fazendo um sorteio de 20 VIPs (para participar toque em 'Participar')\nDo you want to use the paid functions of YxWa for free? We are doing a raffle of 20 VIPs (to participate tap 'Participate')\n¿Quiere utilizar las funciones de pago de YxWa de forma gratuita? Estamos haciendo un sorteo de 20 VIP (para participar toca 'Participar')",
+ "title":"Segue a gente",
+ "description":"Você usa Telegram? Participe do nosso grupo de suporte no Telegram, te espero lá :)",
  "button_url":"participar",
- "url":"https://twitter.com/ClebersonJrX/status/1325142857326456833?s=19",
- "id":"newsonewe"
+ "url":"https://t.me/yModsX",
+ "id":"newsoneweejje"
 }

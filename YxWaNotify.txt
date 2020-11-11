@@ -2,8 +2,8 @@
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
  "title":"Segue a gente",
- "description":"Você usa Telegram? Participe do nosso grupo de suporte no Telegram, te espero lá :)",
+ "description":"Hey $name, você usa Telegram? Participe do nosso grupo de suporte no Telegram, te espero lá :)",
  "button_url":"participar",
  "url":"https://t.me/yxwagroup",
- "id":"newsoneweejjej"
+ "id":"newjjej"
 }

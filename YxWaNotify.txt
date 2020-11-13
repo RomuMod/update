@@ -2,7 +2,7 @@
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
  "title":"Utilidade pública 🏷️",
- "description":"Hey $name, você adicionou uma senha a uma conversa e esqueceu?\n\nNão se preocupe, não há necessidade de desinstalar o WhatsApp para remover a senha - você não vai perder suas conversas e tudo ficará bem.\n\nVeja este vídeo para aprender a como remover uma senha de uma conversa - mesmo que você não saiba asenha.",
+ "description":"Hey $name, você adicionou uma senha a uma conversa e esqueceu?\n\nNão se preocupe, não há necessidade de desinstalar o WhatsApp para remover a senha - você não vai perder suas conversas e tudo ficará bem.\n\nVeja este vídeo para aprender a como remover uma senha de uma conversa - mesmo que você não saiba a senha.",
  "button_url":"assistir",
  "url":"https://youtu.be/ku0Cs_sRX-Y",
  "id":"yt1"

@@ -1,9 +1,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Oieeeeee",
- "description":"Bom day $name. Dormiu bem? Entra aqui no nosso grupinho do Telegram pra gente bater um papinho rsrs😊",
- "button_url":"entrar",
- "url":"https://t.me/yxwagroup",
- "id":"gpyx1"
+ "title":"Seu WhatsApp foi heckeado 😳",
+ "description":"Brincadeira $name 😅\nEu só queria chamar sua atenção - criei um Instagram - siga-me lá 👀🔥 ",
+ "button_url":"seguir",
+ "url":"https://www.instagram.com/clebersonjrx",
+ "id":"instadev"
 }

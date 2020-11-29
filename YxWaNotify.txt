@@ -1,9 +1,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Seu WhatsApp foi heckeado 😳",
- "description":"Brincadeira $name 😅\nEu só queria chamar sua atenção - criei um Instagram - siga-me lá 👀🔥 ",
+ "title":"Siga-me no Instagram",
+ "description":"Siga o perfil do meu desenvolvedor no Instagram ",
  "button_url":"seguir",
  "url":"https://www.instagram.com/clebersonjrx",
- "id":"instadev"
+ "id":"instadev2"
 }

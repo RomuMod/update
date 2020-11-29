@@ -1,9 +1,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Siga-me no Instagram",
- "description":"Siga o perfil do meu desenvolvedor no Instagram ",
- "button_url":"seguir",
- "url":"https://www.instagram.com/clebersonjrx",
- "id":"instadev2"
+ "title":"Grupo no Telegram",
+ "description":"Participe do nosso grupo no Telegram",
+ "button_url":"participar",
+ "url":"https://t.me/yxwagroup",
+ "id":"instadev3"
 }

@@ -2,7 +2,7 @@
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
  "title":"Papéis de paredes personalizados",
- "description":"Agora é possível adicionar papéis de parede personalizados para cada conversa do WhatsApp de forma simples e fácil\, toque em 'assistir'\, para ver no YouTube como funciona a nova opção 🎨",
+ "description":"Agora é possível adicionar papéis de parede personalizados para cada conversa do WhatsApp de forma simples e fácil - toque em 'assistir' para ver no YouTube como funciona a nova opção 🎨",
 "button_url":"assitir",
  "url":"https://youtu.be/WPUDYDQVQKo",
  "id":"wallnewui"

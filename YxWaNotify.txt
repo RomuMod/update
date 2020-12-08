@@ -2,7 +2,7 @@
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
  "title":"Nova função disponível",
- "description":"Bom dia/noite $name\Ollha só essa dica que separamos pra você 😯\nComo usar a nova função que foi adicionado no WhatsApp 😜",
+ "description":"Bom dia|noite $name\nOllha só essa dica que separamos pra você 😯\nComo usar a nova função que foi adicionado no WhatsApp 😜",
 "button_url":"ver dica",
  "url":"https://youtu.be/WPUDYDQVQKo",
  "id":"wallnewui2"

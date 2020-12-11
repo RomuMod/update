@@ -1,9 +1,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Nova função disponível",
- "description":"Bom dia|noite $name\nOllha só essa dica que separamos pra você 😯\nComo usar a nova função que foi adicionado no WhatsApp 😜",
-"button_url":"ver dica",
- "url":"https://youtu.be/WPUDYDQVQKo",
- "id":"wallnewui2"
+ "title":"Olha só essa dica",
+ "description":"Está cansado de perder suas figurinhas sempre que você desinstala seu WhatsApp $name? Veja como fazer backup das suas figurinhas 👌",
+ "button_url":"ver dica",
+ "url":"https://youtu.be/E53RdD_uu84",
+ "id":"backups1"
 }

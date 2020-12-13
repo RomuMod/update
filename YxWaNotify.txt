@@ -1,9 +1,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Olha só essa dica",
+ "title":"Olha só essa dica 👀👏",
  "description":"Está cansado de perder suas figurinhas sempre que você desinstala seu WhatsApp $name? Veja como fazer backup das suas figurinhas 👌",
  "button_url":"ver dica",
  "url":"https://youtu.be/E53RdD_uu84",
- "id":"backups1"
+ "id":"backups2"
 }

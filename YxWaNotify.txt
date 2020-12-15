@@ -1,9 +1,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Será você o sortudo?",
- "description":"Participe agora do super sorteio de uma placa de vídeo que vai acontecer no dia 16 de janeiro - já imaginou ser o sortudo e começar bem o ano?",
- "button_url":"participar agora",
- "url":"https://5ksorteios.com.br/rx-5700xt-aorus/",
- "id":"sorteio1"
+ "title":"Quer testar?",
+ "description":"Veja como usar essa nova opção que foi adicionado no WhatsApp - poucos sabem dela",
+ "button_url":"testar função",
+ "url":"https://youtu.be/WPUDYDQVQKo",
+ "id":"wallpapersui3"
 }

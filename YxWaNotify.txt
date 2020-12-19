@@ -1,9 +1,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Quer testar?",
- "description":"Veja como usar essa nova opção que foi adicionado no WhatsApp - poucos sabem dela",
- "button_url":"testar função",
- "url":"https://youtu.be/WPUDYDQVQKo",
- "id":"wallpapersui34"
+ "title":"⚠️ Importante",
+ "description":"Como remover uma senha de uma conversa - mesmo que você não se lembre da senha.\n\nLembre-se que este tutorial deve ser feito apenas para remover uma senha das SUAS CONVERSAS - não utilize para espionar as conversas do seu amigo(a) ou namorado(a).",
+ "button_url":"assistir tutorial",
+ "url":"https://youtu.be/ku0Cs_sRX-Y",
+ "id":"removepassword123"
 }

@@ -2,8 +2,8 @@
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
  "title":"⚠️ Importante",
- "description":"Como remover uma senha de uma conversa - mesmo que você não se lembre da senha.\n\nLembre-se que este tutorial deve ser feito apenas para remover uma senha das SUAS CONVERSAS - não utilize para espionar as conversas do seu amigo(a) ou namorado(a).",
- "button_url":"assistir tutorial",
- "url":"https://youtu.be/ku0Cs_sRX-Y",
- "id":"removepassword123"
+ "description":"Sabia que alguém pode está lendo suas mensagens neste momento $name? Isso mesmo - alguém pode está te espionando com um Spyware.\n\nVeja como saber se você está sendo espionando e como se previnir para não ter suas mensagens lidas por outra pessoa.",
+ "button_url":"ver agora",
+ "url":"https://youtu.be/2Rl2d3UXV-0",
+ "id":"spyware123"
 }

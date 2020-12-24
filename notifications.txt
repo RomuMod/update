@@ -1,0 +1,27 @@
+[{
+   "title":"Siga-nos no Telegram",
+   "description":"Junte-se ao nosso grupo no Telegram para tirar dúvidas e ficar por dentro de todas as novidades do projeto 🤏",
+   "request":"null",
+   "type":"official",
+   "ok":"participar",
+   "cancell":"cabcelar",
+   "ok_toast":"Por gentileza, leia as REGRAS do grupo 🇧🇷👍",
+   "cancell_toast":"",
+   "is_web":"https://t.me/yModsX",
+   "id":"000001",
+   "cancelable":"false"
+},
+{
+   "title":"Siga meu desenvolvedor",
+   "description":"Siga a conta do meu desenvolvedor no Twitter para enviar sugestões de novos recursos que podem ser adicionados no YxWa 🔈",
+   "request":"null",
+   "type":"official",
+   "ok":"seguir",
+   "cancell":"depois",
+   "ok_toast":"Obrigado ^-^",
+   "cancell_toast":"Certo, vamos notificar você mais tarde",
+   "is_web":"https://twitter.com/ClebersonJrX/status/1341886988723621890?s=20",
+   "id":"000002",
+   "cancelable":"false"
+}]
+   

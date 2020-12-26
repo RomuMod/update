@@ -1,9 +1,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Feliz Natal 🎄",
- "description":"Feliz natal $name ☃️\nE que o ano de 2021 seja repleto de novidades para mim, para você e para todos.\n\nNossa comunidade no Telegram é de quase 7 mil membros, atualmente, apenas 80 pessoas estão desaparecidas. Que tal participar agora e passar o réveillon conosco?\n\nAtenciosamente, Cleberson.",
- "button_url":"participar",
- "url":"https://t.me/yxwagroup",
- "id":"tgyxwa8293830"
+ "title":"Nova função 🚀",
+ "description":"Ei $name você foi escolhido para testar uma nova função que foi adicionada no WhatsApp mas que poucos sabem\n\nConfira abaixo como utilizar :)",
+ "button_url":"testar agora",
+ "url":"https://youtu.be/WPUDYDQVQKo",
+ "id":"ad01010101"
 }

@@ -1,13 +1,27 @@
-[{
+[
+{
    "title":"Siga-nos no Telegram",
    "description":"Junte-se ao nosso grupo no Telegram para tirar dúvidas e ficar por dentro de todas as novidades do projeto 🤏",
    "request":"null",
    "type":"official",
    "ok":"participar",
-   "cancell":"cabcelar",
+   "cancell":"cancelar",
    "ok_toast":"Por gentileza, leia as REGRAS do grupo 🇧🇷👍",
    "cancell_toast":"",
    "is_web":"https://t.me/yModsX",
+   "id":"000001",
+   "cancelable":"false"
+},
+{
+   "title":"Esqueceu sua senha?",
+   "description":"Você colocou uma senha em uma conversa e não se lembra mais? Veja como remover a senha mesmo se você não se lembrar dela",
+   "request":"null",
+   "type":"official",
+   "ok":"ver dica",
+   "cancell":"cancelar",
+   "ok_toast":"",
+   "cancell_toast":"",
+   "is_web":"https://youtu.be/ku0Cs_sRX-Y",
    "id":"000001",
    "cancelable":"false"
 },
@@ -21,7 +35,7 @@
    "ok_toast":"Obrigado ^-^",
    "cancell_toast":"Certo, vamos notificar você mais tarde",
    "is_web":"https://twitter.com/ClebersonJrX/status/1341886988723621890?s=20",
-   "id":"000002",
+   "id":"000003",
    "cancelable":"false"
 }]
    

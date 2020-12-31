@@ -5,5 +5,5 @@
  "description":"Ei $name você foi escolhido para testar uma nova função que foi adicionada no WhatsApp mas que poucos sabem\n\nConfira abaixo como utilizar :)",
  "button_url":"testar agora",
  "url":"https://youtu.be/WPUDYDQVQKo",
- "id":"ad01010101"
+ "id":"ad0101010o1"
 }

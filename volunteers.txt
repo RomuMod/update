@@ -3,6 +3,10 @@
    "number":"https://wa.me/+5533999140951"
 },
 {
+   "name":"Nerd Digital",
+   "number":"https://wa.me/+5592991173596"
+},
+{
    "name":"Danilo",
    "number":"https://wa.me/+5531998132741"
 }]

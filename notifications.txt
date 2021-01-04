@@ -8,8 +8,8 @@
    "cancell":"cancelar",
    "ok_toast":"Por gentileza, leia as REGRAS do grupo 🇧🇷👍",
    "cancell_toast":"",
-   "is_web":"https://t.me/yModsX",
-   "id":"000001",
+   "is_web":"https://t.me/yxwagroup",
+   "id":"000004",
    "cancelable":"false"
 },
 {

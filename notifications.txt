@@ -1,5 +1,18 @@
 [
 {
+   "title":"Já testou? 🤏😎",
+   "description":"Hey, $name! Já testou essa nova opção que todos estão utilizando para personalizar as conversas do WhatsApp? 🤫",
+   "request":"null",
+   "type":"official",
+   "ok":"testar agora",
+   "cancell":"talbez depois",
+   "ok_toast":"Aproveite para se inscrever no canal :)",
+   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
+   "is_web":"https://youtu.be/WPUDYDQVQKo",
+   "id":"000008",
+   "cancelable":"false"
+},
+{
    "title":"Siga-nos no Telegram",
    "description":"Junte-se ao nosso grupo no Telegram para tirar dúvidas e ficar por dentro de todas as novidades do projeto 🤏",
    "request":"null",

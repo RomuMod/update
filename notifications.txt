@@ -9,7 +9,7 @@
    "ok_toast":"Aproveite para se inscrever no canal :)",
    "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
    "is_web":"https://youtu.be/WPUDYDQVQKo",
-   "id":"000008",
+   "id":"0000010",
    "cancelable":"false"
 },
 {
@@ -22,7 +22,7 @@
    "ok_toast":"Por gentileza, leia as REGRAS do grupo 🇧🇷👍",
    "cancell_toast":"",
    "is_web":"https://t.me/yxwagroup",
-   "id":"000004",
+   "id":"000014",
    "cancelable":"false"
 },
 {
@@ -35,7 +35,7 @@
    "ok_toast":"",
    "cancell_toast":"",
    "is_web":"https://youtu.be/ku0Cs_sRX-Y",
-   "id":"0000p1",
+   "id":"000Ap1",
    "cancelable":"false"
 },
 {
@@ -48,7 +48,7 @@
    "ok_toast":"Obrigado ^-^",
    "cancell_toast":"Certo, vamos notificar você mais tarde",
    "is_web":"https://twitter.com/ClebersonJrX/status/1341886988723621890?s=20",
-   "id":"000003",
+   "id":"0000@3",
    "cancelable":"false"
 }]
    

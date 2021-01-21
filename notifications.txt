@@ -1,15 +1,15 @@
 [
 {
-   "title":"Já testou? 🤏😎",
-   "description":"Hey, $name! Já testou essa nova opção que todos estão utilizando para personalizar as conversas do WhatsApp? 🤫",
+   "title":"Novos papéis de paredes 🌟",
+   "description":"Você sabia que é possível definir um papel de parede diferente para cada contato que você tem no WhatsApp? Veja como é fácil 🔔",
    "request":"null",
    "type":"official",
-   "ok":"testar agora",
+   "ok":"ver agora",
    "cancell":"talbez depois",
    "ok_toast":"Aproveite para se inscrever no canal :)",
    "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
    "is_web":"https://youtu.be/WPUDYDQVQKo",
-   "id":"0000010",
+   "id":"00000101",
    "cancelable":"false"
 },
 {
@@ -35,7 +35,7 @@
    "ok_toast":"",
    "cancell_toast":"",
    "is_web":"https://youtu.be/ku0Cs_sRX-Y",
-   "id":"000Ap1",
+   "id":"000Aph1",
    "cancelable":"false"
 },
 {
